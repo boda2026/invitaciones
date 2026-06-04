@@ -259,7 +259,7 @@ a { color: inherit; text-decoration: none; }
 
 .env-letter.letter-rise {
   max-height: 500px;
-  transform: translateX(-50%) translateY(-310px);
+  transform: translateX(-50%) translateY(-90px);
   opacity: 1;
 }
 
