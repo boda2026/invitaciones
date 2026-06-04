@@ -50,13 +50,13 @@ const CONFIG = {
   },
 
   galleryImages: [
-    { src: 'assets/gallery/photo-01.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-02.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-03.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-04.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-05.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-06.jpeg', alt: 'Mariana y Pablo' },
-    { src: 'assets/gallery/photo-07.jpeg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-01.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-02.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-03.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-04.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-05.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-06.jpg', alt: 'Mariana y Pablo' },
+    { src: 'assets/gallery/photo-07.jpg', alt: 'Mariana y Pablo' },
     { src: 'assets/gallery/photo-08.jpg', alt: 'Mariana y Pablo' },
     { src: 'assets/gallery/photo-09.jpg', alt: 'Mariana y Pablo' },
   ],
@@ -66,3 +66,5 @@ const CONFIG = {
     colors: ['#DABD9D', '#FEF9F3', '#ffffff'],
   },
 };
+
+export default CONFIG;
