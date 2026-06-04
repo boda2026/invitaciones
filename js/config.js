@@ -1,8 +1,8 @@
 const CONFIG = {
   names: {
-    bride: 'Mariana Ailin',
-    groom: 'Pablo Matias',
-    brideFullName: 'Mariana Ailin Limarino',
+    bride: 'Mariana Ailín',
+    groom: 'Pablo Matías',
+    brideFullName: 'Mariana Ailín Limarino',
   },
 
   password: 'fernetazo',
@@ -11,9 +11,9 @@ const CONFIG = {
 
   event: {
     timeline: [
-      { time: '18:00', label: 'Ceremonia' },
-      { time: '19:30', label: 'Recepción' },
-      { time: '20:00', label: 'Fiesta' },
+      { time: '18:15', label: 'Ingreso' },
+      { time: '18:45', label: 'Ceremonia' },
+      { time: '19:30', label: 'Fiesta' },
     ],
     venue: {
       name: 'Villa Carlos Paz',
@@ -34,7 +34,7 @@ const CONFIG = {
 
   gift: {
     alias: 'bodayfernet',
-    holder: 'Mariana Ailin Limarino',
+    holder: 'Mariana Ailín Limarino',
     text: 'Tu presencia es nuestro mejor regalo, pero si deseas acompañarnos con un regalo, puedes colaborar con nuestra luna de miel.',
   },
 
