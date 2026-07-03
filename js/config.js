@@ -40,7 +40,7 @@ const CONFIG = {
 
   rsvp: {
     deadline: '15 de agosto de 2026',
-    formUrl: 'https://forms.gle/sYidah81RkVCP72d6',
+    formUrl: 'https://forms.gle/wjAEywXSouF4FujH9',
   },
 
   music: {
